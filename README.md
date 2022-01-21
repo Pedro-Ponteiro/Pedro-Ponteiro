@@ -3,7 +3,7 @@
 ![Linkedin Badge](https://img.shields.io/badge/-Pedromcsp-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedromcsprado/)
 [![Gmail Badge](https://img.shields.io/badge/-silv9797@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:silv9797@gmail.com)](mailto:silv9797@gmail.com)
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Pedro-Ponteiro)
-![Repository Views](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Pedro-Ponteiro/Python)
+
 
 Hi, I'm Pedro, a software developer based in Brazil.
 
