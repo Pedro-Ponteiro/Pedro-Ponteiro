@@ -14,7 +14,7 @@ I have many interests, among them are:
 * Veganism
 * DevOps
 
-## 2021 Quote:
+## 2022 Quote:
 ``` python
 """
   Do not go where the path may lead, go instead where there is no path and leave a trail.
