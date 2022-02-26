@@ -12,7 +12,6 @@ I'm looking forward to adding new value to humanity (one step at a time) through
 I have many interests, among them are: 
 * Web Development
 * Data Science
-* Veganism
 * DevOps
 * CI/CD
 
