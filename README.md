@@ -10,10 +10,10 @@ Hi, I'm Pedro, a software developer based in Brazil.
 I'm looking forward to adding new value to humanity (one step at a time) through open source.
 
 I have many interests, among them are: 
-* Web Development
-* Data Science
-* DevOps
-* CI/CD
+* Web Development (Backend)
+* Data Science (ML)
+* Automation (RPA)
+* DevOps (CI/CD)
 
 ## 2022 Quote:
 ``` python
