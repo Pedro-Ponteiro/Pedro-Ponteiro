@@ -1,7 +1,7 @@
 # "Hello there!"
 
-![Linkedin Badge](https://img.shields.io/badge/-Pedromcsp-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedromcsprado/)
-[![Gmail Badge](https://img.shields.io/badge/-silv9797@gmail.com-c14438?style=flat-square&logo=Outlook&logoColor=white&link=mailto:pedromcsp@outlook.com)](mailto:pedromcsp@outlook.com)
+![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedromcsprado/)
+[![Outlook Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Outlook&logoColor=white&link=mailto:pedromcsp@outlook.com)](mailto:pedromcsp@outlook.com)
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Pedro-Ponteiro)
 
 
