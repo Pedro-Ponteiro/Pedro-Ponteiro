@@ -7,15 +7,15 @@
 
 Hi, I'm Pedro, a software developer based in Brazil.
 
-I'm looking forward to adding new value to humanity (one step at a time) through open source.
+I'm looking forward to adding new value to humanity through open source.
 
-I have many interests, among them are: 
+I have many interests, among them are...
 * Web Development (Backend)
 * Data Science (ML)
 * Automation (RPA)
-* DevOps (CI/CD)
+* DevSecOps (CI/CD)
 
-## 2022 Quote:
+## 2023 Quote:
 ``` python
 """
   Do not go where the path may lead, go instead where there is no path and leave a trail.
