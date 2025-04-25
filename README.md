@@ -11,17 +11,9 @@ I'm looking forward to adding new value to humanity through open source.
 
 I have many interests, among them are...
 * Web Development (Backend)
-* Data Science (ML)
+* Data Science (LLMs)
 * Automation (RPA)
 * DevSecOps (CI/CD)
-
-## 2023 Quote:
-``` python
-"""
-  Do not go where the path may lead, go instead where there is no path and leave a trail.
-- Ralph Waldo Emerson
-"""
-```
 
 
 
